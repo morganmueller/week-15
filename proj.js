@@ -14,7 +14,7 @@ function setup() {
 
   // Create the slider to dynamically control ball count
   slider = createSlider(0, 1000, 50); // Starting with 50 balls
-  slider.position(10, 10);
+  slider.position(10, 300);
   slider.size(100);
 
   initializeBalls(slider.value()); // Initialize with starting slider value
