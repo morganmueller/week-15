@@ -1,0 +1,18 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    
+  
+  }
+  canvas {
+    display: block;
+  }
+  
+  img {
+    width: 200px;
+    height: auto;
+  }
+  
+  .canv-width {
+    width: 100px;
+  }
